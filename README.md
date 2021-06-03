@@ -4,6 +4,6 @@ This is a small program created for a school assignment that takes a text file a
 Output expected:
 
 Total # of lines:
-# of lines skipped:
+Number of lines skipped:
 Minimum value read:
 Maximum value read:
